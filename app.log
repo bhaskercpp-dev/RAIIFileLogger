@@ -1,0 +1,16 @@
+[INFO]Server Started To Write
+[INFO]Client connected
+[Warning]Request is taking too long
+[Error]DB connection failed
+[INFO]Server Started To Write
+[INFO]Client connected
+[Warning]Request is taking too long
+[Error]DB connection failed
+[2026-10-27 17:17:07][INFO]Server Started To Write
+[2026-10-27 17:17:08][INFO]Client connected
+[2026-10-27 17:17:08][Warning]Request is taking too long
+[2026-10-27 17:17:08][Error]DB connection failed
+[2026-10-27 17:18:56][INFO]Server Started To Write
+[2026-10-27 17:23:01][INFO]Client connected
+[2026-10-27 17:23:01][Warning]Request is taking too long
+[2026-10-27 17:23:02][Error]DB connection failed
