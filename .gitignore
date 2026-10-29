@@ -1,0 +1,32 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build artifacts
+Debug/
+Release/
+x64/
+x86/
+build/
+out/
+
+# Compiled files
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.lib
+*.dll
+*.recipe
+*.tlog/
+
+# Generated logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.bak
+
